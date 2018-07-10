@@ -1,1 +1,4 @@
+Hello You!
 Pracice file to follow along with a git/github tutorial.
+
+This is my 1st edit of my 1st github file. Time to 'commit'
