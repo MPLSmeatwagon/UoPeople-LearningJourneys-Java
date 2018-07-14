@@ -7,3 +7,4 @@ Github - maybe some of the students from class are on github.
 I'll ask the question in the class forum - maybe add a link to this helpful tutorial about git/github.
 
 New line in 'Master' branch.
+Let me try to comment below.
