@@ -6,5 +6,10 @@ This is my 1st edit of my 1st github file. Time to 'commit'
 Github - maybe some of the students from class are on github.
 I'll ask the question in the class forum - maybe add a link to this helpful tutorial about git/github.
 
+
+Get the code started early. Give yourself time to work out the bugs.
+How do I merge this branch with master?
+
 New line in 'Master' branch.
 Let me try to comment below.
+
