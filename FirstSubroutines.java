@@ -11,6 +11,7 @@ public class FirstSubroutines {
         String forwards; // stores the stripped down version of string(no non-abc's, lower-case)
         String backwards; // reverse of the 'forwards' string variable
         
+        // program uses textio.java (david eck) for user input
         System.out.print("Enter a string: "); // user enters a string to test
         userInput = TextIO.getln();
         forwards = takeOutExtra(userInput); // returns the 'stripped down' string (only lower abc's)
